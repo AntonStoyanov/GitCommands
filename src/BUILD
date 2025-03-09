@@ -1,4 +1,4 @@
 cc_binary(
-    name = "main",
-    srcs = ["main.cc"],
+    name = "Learning",
+    srcs = ["Learning.cpp"],
 )
